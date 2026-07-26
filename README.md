@@ -128,4 +128,4 @@ MIT — de uso libre, con atribución. Ver [LICENSE](LICENSE).
 
 ## Estado del proyecto
 
-✅ Implementación completa y probada (escaneo de puertos cerrados, abiertos, y el control de autorización). Siguiente paso: publicar en GitHub.
+✅ Publicado en GitHub. Proyecto 1 del [portafolio de ciberseguridad](https://github.com/gmrandrei) — implementación completa y probada.
