@@ -102,6 +102,8 @@ Resultados del escaneo para 127.0.0.1:
   Puerto 135/tcp -> ABIERTO
 ```
 
+![Escaneo detectando un puerto abierto](screenshots/scan-puerto-abierto.png)
+
 Si la IP no es privada/local, el programa pide confirmación explícita antes de escanear:
 
 ```
@@ -109,6 +111,8 @@ $ python port_scanner.py 8.8.8.8 -s 1 -e 1
 [!] 8.8.8.8 no es una IP privada/local. Confirmas que tienes autorizacion explicita para escanearla? (s/n): n
 Escaneo cancelado: autorizacion no confirmada.
 ```
+
+![Control de autorización bloqueando un escaneo no confirmado](screenshots/control-autorizacion.png)
 
 ## Limitaciones conocidas
 
