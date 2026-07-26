@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Resultados de escaneos (por si se redirige la salida del programa a un archivo)
+resultados*
+output*
+*.log
